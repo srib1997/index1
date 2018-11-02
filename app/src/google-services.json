@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "364138241825",
+    "firebase_url": "https://withladder-4979b.firebaseio.com",
+    "project_id": "withladder-4979b",
+    "storage_bucket": "withladder-4979b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364138241825:android:efc35c3ee4c7da2d",
+        "android_client_info": {
+          "package_name": "com.testing.withladder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364138241825-lg9ic423j2e5jhob0efdap3uf23eupgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNKCvD6cJVxSd4tacJi8mkPnOiRxMhz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
